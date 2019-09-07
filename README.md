@@ -1,8 +1,15 @@
 # vue-storybook-ts
+Sample Code for https://qiita.com/kecy/items/83e5aad3f7dd1e2fc2ff
+
 
 ## Project setup
 ```
 npm install
+```
+
+### Run Storybook
+```
+npm run storybook
 ```
 
 ### Compiles and hot-reloads for development
