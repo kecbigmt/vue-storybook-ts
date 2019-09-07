@@ -5,7 +5,8 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "storybook": "start-storybook"
   },
   "dependencies": {
     "core-js": "^2.6.5",
@@ -14,9 +15,12 @@
     "vue-property-decorator": "^8.1.0"
   },
   "devDependencies": {
+    "@storybook/vue": "5.1.11",
     "@vue/cli-plugin-babel": "^3.11.0",
     "@vue/cli-plugin-typescript": "^3.11.0",
     "@vue/cli-service": "^3.11.0",
+    "babel-preset-vue": "2.0.2",
+    "fork-ts-checker-webpack-plugin": "1.5.0",
     "typescript": "^3.4.3",
     "vue-template-compiler": "^2.6.10"
   }
