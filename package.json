@@ -16,9 +16,9 @@
   },
   "devDependencies": {
     "@storybook/vue": "5.1.11",
-    "@vue/cli-plugin-babel": "^3.11.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
     "@vue/cli-plugin-typescript": "^3.11.0",
-    "@vue/cli-service": "^3.11.0",
+    "@vue/cli-service": "^5.0.8",
     "babel-preset-vue": "2.0.2",
     "fork-ts-checker-webpack-plugin": "1.5.0",
     "typescript": "^3.4.3",
